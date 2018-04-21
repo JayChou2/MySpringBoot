@@ -1,0 +1,12 @@
+server:
+  servlet:
+    context-path: /yzs
+
+welcome: 欢迎来到召唤师峡谷!
+name: 卡牌大师
+content: ${welcome},${name}
+
+champion:
+  name: 卡牌大师
+  kills: 19
+  result: vertory
