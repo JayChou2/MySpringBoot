@@ -12,6 +12,7 @@ public class Champion {
     private Integer kills;
     private String result;
 
+    //test
     public String getName() {
         return name;
     }
