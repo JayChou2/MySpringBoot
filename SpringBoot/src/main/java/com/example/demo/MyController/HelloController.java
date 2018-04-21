@@ -24,5 +24,9 @@ public class HelloController {
         return "logon to Spring boot!";
     }
 
+    @ResponseBody
+    public String index(){
+        return "首页!!!";
+    }
 
 }
